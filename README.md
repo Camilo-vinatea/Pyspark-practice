@@ -22,7 +22,7 @@ El objetivo es mostrar habilidades prácticas en **ETL con PySpark**, incluyendo
 ---
 
 ## 📂 Flujo de trabajo
-
+```
 ├── Dataset1.csv
 ├── Dataset2.csv
 │
@@ -48,7 +48,7 @@ El objetivo es mostrar habilidades prácticas en **ETL con PySpark**, incluyendo
     ├── Parquet
     │   └── filtered_data.parquet
     └── CSV
-        └── total_value_per_year.csv
+        └── total_value_per_year.csv```
 ---
 
 ## 🚀 Ejecución
