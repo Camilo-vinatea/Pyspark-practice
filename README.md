@@ -49,7 +49,6 @@ El objetivo es mostrar habilidades prácticas en **ETL con PySpark**, incluyendo
     │   └── filtered_data.parquet
     └── CSV
         └── total_value_per_year.csv
-
 ---
 
 ## 🚀 Ejecución
